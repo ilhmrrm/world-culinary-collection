@@ -1,0 +1,3 @@
+Indonesia = Nasi Goreng, Sayur Asem, Papeda
+Spain = Pizza
+England = Spaghetti
